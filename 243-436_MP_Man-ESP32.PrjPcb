@@ -135,57 +135,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=..\..\..\Altium\Librairies\TEP_243-Altium_DBLib.DbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
-DocumentPath=..\..\..\243-336 - Developpement de produits 3 - Assemblage\projet manette\243-336_MP_PCB-Altium\243-336_MP-manette-PCB\243-336_MP_Manette.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QKERWZYL
-
-[Document8]
-DocumentPath=..\..\..\243-336 - Developpement de produits 3 - Assemblage\projet manette\243-336_MP_PCB-Altium\243-336_MP-manette-PCB\243-336_MP_Manette.SCHLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NKEQSCNM
-
-[Document9]
 DocumentPath=243-436_USB-to-UART.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,51 +151,17 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WZIOFQGD
 
-[Document10]
-DocumentPath=243-436_MP_Man-Ctrl-ESP32.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NFAHUJEM
-
-[Document11]
-DocumentPath=243-436_MP_Man-ESP32.SCHLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QZNPISXL
-
 [Parameter1]
-Name=NomDeLetudiant
-Value=Cegep Limoilou
+Name=Revision
+Value=Rev.B
 
 [Parameter2]
 Name=NomDeProjet
 Value=243-436_ManCtrl-ESP32
 
 [Parameter3]
-Name=Revision
-Value=Rev.A
+Name=NomDeLetudiant
+Value=Cegep Limoilou
 
 [Configuration1]
 Name=Sources
