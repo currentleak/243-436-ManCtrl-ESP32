@@ -152,16 +152,16 @@ GenerateClassCluster=0
 DocumentUniqueId=WZIOFQGD
 
 [Parameter1]
-Name=Revision
-Value=Rev.B
+Name=NomDeLetudiant
+Value=Cegep Limoilou
 
 [Parameter2]
 Name=NomDeProjet
 Value=243-436_ManCtrl-ESP32
 
 [Parameter3]
-Name=NomDeLetudiant
-Value=Cegep Limoilou
+Name=Revision
+Value=Rev.B
 
 [Configuration1]
 Name=Sources
